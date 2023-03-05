@@ -8,3 +8,6 @@ class LoginBackendApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}

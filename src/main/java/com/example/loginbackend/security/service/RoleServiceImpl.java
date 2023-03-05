@@ -1,4 +1,4 @@
-package com.example.loginbackend.security.resource;
+package com.example.loginbackend.security.service;
 
 import com.example.loginbackend.security.domain.model.entity.Role;
 import com.example.loginbackend.security.domain.model.enumeration.Roles;
